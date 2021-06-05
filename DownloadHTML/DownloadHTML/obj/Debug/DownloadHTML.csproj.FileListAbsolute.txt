@@ -1,0 +1,10 @@
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\bin\Debug\DownloadHTML.exe.config
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\bin\Debug\DownloadHTML.exe
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\bin\Debug\DownloadHTML.pdb
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.csprojAssemblyReference.cache
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.Form1.resources
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.Properties.Resources.resources
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.csproj.GenerateResource.cache
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.csproj.CoreCompileInputs.cache
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.exe
+C:\Users\esvae\source\repos\DownloadHTML\DownloadHTML\obj\Debug\DownloadHTML.pdb
